@@ -1,5 +1,5 @@
 header = """
-projekt_1.py: first project for Engeto Online Python Academy
+projekt_1.py: první projekt do Engeto Online Python Akademie
 
 author: Dominik Šváb
 email: dominik.svab123@gmail.com
